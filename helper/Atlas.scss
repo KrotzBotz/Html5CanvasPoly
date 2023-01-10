@@ -1,0 +1,44 @@
+.domains__ui {
+	background-color: white;
+	height: 900px;
+	width: 300px;
+	overflow: auto;
+}
+
+.atlas__container {
+	display: flex;
+	flex-direction: row;
+}
+.map__canvas {
+	cursor: pointer;
+	max-width: 500px;
+	max-height: 900px;
+	image-rendering: pixelated;
+}
+
+.tool_button {
+	width: 100px;
+	height: 50px;
+}
+
+.atlas__flagicon {
+	position: absolute;
+	width: 130px;
+	z-index: 3;
+	top: -50px;
+	left: -50px;
+}
+
+.atlas__title {
+	margin: auto;
+	width: 170px;
+	margin-bottom: 9px;
+	font-size: 30px;
+	letter-spacing: 2px;
+	text-align: center;
+	color: #fff;
+	text-shadow: rgb(0, 0, 0) 0px 1px 3px;
+	image-rendering: pixelated;
+	background-size: 100% 100%;
+	-webkit-font-smoothing: antialiased;
+}
