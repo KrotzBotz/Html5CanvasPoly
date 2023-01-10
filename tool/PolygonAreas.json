@@ -1,0 +1,421 @@
+[
+	{
+		"description": "The northern region of the Bitmates territory is a place of beauty and elegance. The snow falls gently throughout the year and creates an atmosphere of peace and bliss",
+		"name": "Northern frontier",
+		"points": [
+			{ "x": 0, "y": 0 },
+			{ "x": 500, "y": 0 },
+			{ "x": 500, "y": 139 },
+			{ "x": 437, "y": 153 },
+			{ "x": 453, "y": 213 },
+			{ "x": 366, "y": 191 },
+			{ "x": 321, "y": 147 },
+			{ "x": 247, "y": 146 },
+			{ "x": 197, "y": 161 },
+			{ "x": 151, "y": 209 },
+			{ "x": 116, "y": 220 },
+			{ "x": 84, "y": 257 },
+			{ "x": 0, "y": 256 }
+		]
+	},
+	{
+		"description": "Between the two dominant land masses lies the chain of islands known as the Ape Atoll. Here once can find a tropical paradise. Due to its central location, Bitmates of all kinds can be found here seeking respite",
+		"name": "Ape Atoll",
+		"points": [
+			{ "x": 500, "y": 139 },
+			{ "x": 437, "y": 153 },
+			{ "x": 453, "y": 213 },
+			{ "x": 366, "y": 191 },
+			{ "x": 321, "y": 147 },
+			{ "x": 247, "y": 146 },
+			{ "x": 197, "y": 161 },
+			{ "x": 151, "y": 209 },
+			{ "x": 116, "y": 220 },
+			{ "x": 131, "y": 287 },
+			{ "x": 162, "y": 363 },
+			{ "x": 132, "y": 437 },
+			{ "x": 108, "y": 535 },
+			{ "x": 62, "y": 602 },
+			{ "x": 0, "y": 636 },
+			{ "x": 0, "y": 669 },
+			{ "x": 55, "y": 656 },
+			{ "x": 114, "y": 663 },
+			{ "x": 140, "y": 686 },
+			{ "x": 192, "y": 700 },
+			{ "x": 283, "y": 697 },
+			{ "x": 291, "y": 682 },
+			{ "x": 250, "y": 651 },
+			{ "x": 255, "y": 550 },
+			{ "x": 272, "y": 438 },
+			{ "x": 260, "y": 390 },
+			{ "x": 279, "y": 382 },
+			{ "x": 318, "y": 380 },
+			{ "x": 303, "y": 290 },
+			{ "x": 318, "y": 255 },
+			{ "x": 384, "y": 253 },
+			{ "x": 419, "y": 276 },
+			{ "x": 436, "y": 317 },
+			{ "x": 500, "y": 320 }
+		]
+	},
+	{
+		"name": "Cinder Summit",
+		"description": "The area around the Cinder Summit is identifiable by the large billowing smoke clouds originating from Mt. Cinder. Most Bitmates find this region inhospitable, but a few call it home and have made the most of its natural resources",
+		"points": [
+			{ "x": 0, "y": 256 },
+			{ "x": 0, "y": 636 },
+			{ "x": 62, "y": 602 },
+			{ "x": 108, "y": 535 },
+			{ "x": 132, "y": 437 },
+			{ "x": 162, "y": 363 },
+			{ "x": 131, "y": 287 },
+			{ "x": 116, "y": 220 },
+			{ "x": 84, "y": 257 }
+		]
+	},
+	{
+		"name": "Sanguine Point",
+		"description": "The beach here is littered with remnants of ships and vessels of a time past. Many visitors/intruders to the Bitmates world find themselves here with not much in sight beyond the ancient temple at its center.",
+		"points": [
+			{ "x": 500, "y": 320 },
+			{ "x": 500, "y": 498 },
+			{ "x": 443, "y": 490 },
+			{ "x": 430, "y": 442 },
+			{ "x": 396, "y": 416 },
+			{ "x": 318, "y": 380 },
+			{ "x": 303, "y": 290 },
+			{ "x": 318, "y": 255 },
+			{ "x": 384, "y": 253 },
+			{ "x": 419, "y": 276 },
+			{ "x": 436, "y": 317 }
+		]
+	},
+	{
+		"name": "The Eastern Empire",
+		"description": "The Colorful Monkeys are the among most abundant of all the Bitmates races and thus have taken it upon themselves to create a large urban metropolis for all manner of trade, commerce, and adventure to pass through.",
+		"points": [
+			{ "x": 500, "y": 498 },
+			{ "x": 429, "y": 520 },
+			{ "x": 396, "y": 567 },
+			{ "x": 362, "y": 598 },
+			{ "x": 363, "y": 663 },
+			{ "x": 359, "y": 697 },
+			{ "x": 320, "y": 712 },
+			{ "x": 283, "y": 697 },
+			{ "x": 291, "y": 682 },
+			{ "x": 250, "y": 651 },
+			{ "x": 255, "y": 550 },
+			{ "x": 272, "y": 438 },
+			{ "x": 260, "y": 390 },
+			{ "x": 279, "y": 382 },
+			{ "x": 318, "y": 380 },
+			{ "x": 396, "y": 416 },
+			{ "x": 430, "y": 442 },
+			{ "x": 443, "y": 490 }
+		]
+	},
+	{
+		"description": "The desert to the south is not for the faint of heart. The heat and lack of water makes it difficult for many of the Mates to survive out here. However, rumors of a falling star landing here has brought renewed intrigue to the area.",
+		"name": "The Forsaken Sands",
+		"points": [
+			{ "x": 500, "y": 498 },
+			{ "x": 500, "y": 900 },
+			{ "x": 151, "y": 900 },
+			{ "x": 148, "y": 849 },
+			{ "x": 200, "y": 777 },
+			{ "x": 245, "y": 726 },
+			{ "x": 283, "y": 697 },
+			{ "x": 320, "y": 712 },
+			{ "x": 359, "y": 697 },
+			{ "x": 363, "y": 663 },
+			{ "x": 362, "y": 598 },
+			{ "x": 396, "y": 567 },
+			{ "x": 429, "y": 520 }
+		]
+	},
+	{
+		"name": "Primordial Forest",
+		"description": "This lush forest found in the southwest of the Bitmates territory is home to the progenitor races of the Bitmates. Preferring to stick to their roots, many of the original mates call this place home.",
+		"points": [
+			{ "x": 151, "y": 900 },
+			{ "x": 0, "y": 900 },
+			{ "x": 0, "y": 669 },
+			{ "x": 55, "y": 656 },
+			{ "x": 114, "y": 663 },
+			{ "x": 140, "y": 686 },
+			{ "x": 192, "y": 700 },
+			{ "x": 283, "y": 697 },
+			{ "x": 245, "y": 726 },
+			{ "x": 200, "y": 777 },
+			{ "x": 148, "y": 849 }
+		]
+	},
+	{
+		"name": "The Frigid Frontier",
+		"description": "Not much is known about the lands north of the Kingdoms. Few Bitmates evolved to handle such extremes climates. Due to this, it is an incredibly beautiful area, untouched by the industry and politics of the regions south of it.",
+		"points": [
+			{ "x": 500, "y": 52 },
+			{ "x": 372, "y": 59 },
+			{ "x": 235, "y": 68 },
+			{ "x": 209, "y": 90 },
+			{ "x": 205, "y": 123 },
+			{ "x": 257, "y": 143 },
+			{ "x": 307, "y": 148 },
+			{ "x": 365, "y": 174 },
+			{ "x": 417, "y": 199 },
+			{ "x": 500, "y": 200 }
+		]
+	},
+	{
+		"name": "Winter's Respite",
+		"description": "At the base of the Frigid Frontier this winter wonderland is a breath of fresh air from the harsh conditions of the mountains. Some of the more insulated Mates find there way here for peace and harmony with nature.",
+		"points": [
+			{ "x": 500, "y": 0 },
+			{ "x": 500, "y": 92 },
+			{ "x": 388, "y": 90 },
+			{ "x": 304, "y": 87 },
+			{ "x": 246, "y": 88 },
+			{ "x": 189, "y": 70 },
+			{ "x": 148, "y": 43 },
+			{ "x": 62, "y": 76 },
+			{ "x": 17, "y": 78 },
+			{ "x": 0, "y": 76 },
+			{ "x": 0, "y": 0 }
+		]
+	},
+	{
+		"name": "Lunora",
+		"description": "The Northern Kingdom of Lunora has longer nights than days due to its location. As such, they have come to see the moon, instead of the sun, as the source of life in their region, providing light and comfort throughout the long nights.",
+		"points": [
+			{ "x": 90, "y": 69 },
+			{ "x": 148, "y": 43 },
+			{ "x": 189, "y": 70 },
+			{ "x": 209, "y": 90 },
+			{ "x": 205, "y": 123 },
+			{ "x": 145, "y": 120 },
+			{ "x": 101, "y": 100 }
+		]
+	},
+	{
+		"name": "Vitacrypt",
+		"description": "A small field outside Lunora is home to the Vitacrypt. Once this was where the Mates came to pay their respects to those who have passed. However, due to an unknown event a few years passed, many of the once full graves have been emptied. Giving raise to a small army of skeletons and zombies.",
+		"points": [
+			{ "x": 46, "y": 114 },
+			{ "x": 101, "y": 100 },
+			{ "x": 145, "y": 120 },
+			{ "x": 175, "y": 158 },
+			{ "x": 156, "y": 203 },
+			{ "x": 129, "y": 213 },
+			{ "x": 75, "y": 181 },
+			{ "x": 42, "y": 150 }
+		]
+	},
+	{
+		"name": "The Calm",
+		"description": "The Calm is a series of rolling plains and hills found to the south of Lunora. The peace and tranquility found here betray the precsene of the raging force of nature that lies beyond it.",
+		"points": [
+			{ "x": 75, "y": 181 },
+			{ "x": 129, "y": 213 },
+			{ "x": 124, "y": 281 },
+			{ "x": 150, "y": 334 },
+			{ "x": 103, "y": 309 },
+			{ "x": 57, "y": 335 },
+			{ "x": 28, "y": 348 },
+			{ "x": 60, "y": 194 }
+		]
+	},
+	{
+		"name": "Mount Cinder",
+		"description": "Violent and agnry, Mount Cinder can be seen from miles away due to the continual plume of smoke coming from its peak. Few Bitmates have what it takes to survive around here, and the ones that do aren't fond of visitors",
+		"points": [
+			{ "x": 47, "y": 422 },
+			{ "x": 36, "y": 359 },
+			{ "x": 103, "y": 309 },
+			{ "x": 150, "y": 334 },
+			{ "x": 155, "y": 370 },
+			{ "x": 138, "y": 389 },
+			{ "x": 96, "y": 404 }
+		]
+	},
+	{
+		"name": "Cinder City",
+		"description": "Cinder City is the industrial capital of the realm. If something needs to be made, manufactured, or repaired; this is the place to do it. Home primarly to robots, great works are made here from the rare materials found on Mount Cinder.",
+		"points": [
+			{ "x": 138, "y": 389 },
+			{ "x": 138, "y": 441 },
+			{ "x": 49, "y": 447 },
+			{ "x": 47, "y": 422 }
+		]
+	},
+	{
+		"name": "Nature's Embrace",
+		"description": "The foresets south of Mt. Cinder are a stark contrast to the mountain. Life is vibrant and abudnant here with towering trees, raging rivers, and a variety of different Mates that call this place home.",
+		"points": [
+			{ "x": 49, "y": 447 },
+			{ "x": 138, "y": 441 },
+			{ "x": 82, "y": 571 },
+			{ "x": 22, "y": 606 },
+			{ "x": 21, "y": 453 }
+		]
+	},
+	{
+		"name": "Primus",
+		"description": "Primus is the first kingdom founded by the childern of el oro. Here, the original mates chose to stay in this area and remain relativley true to their roots, despite thier increased intelligence.",
+		"points": [
+			{ "x": 0, "y": 812 },
+			{ "x": 0, "y": 798 },
+			{ "x": 103, "y": 816 },
+			{ "x": 116, "y": 873 },
+			{ "x": 118, "y": 900 },
+			{ "x": 0, "y": 900 }
+		]
+	},
+	{
+		"name": "Desert Diamonds",
+		"description": "The name of these magnificent works of architecture may seem misleading at first. However, they recieved thier name due to the fact that the are seen above ground is perfectly mirriored below ground. This creates an almost perfect diamond shaped structure.",
+		"points": [
+			{ "x": 239, "y": 747 },
+			{ "x": 340, "y": 734 },
+			{ "x": 343, "y": 785 },
+			{ "x": 258, "y": 806 }
+		]
+	},
+	{
+		"name": "??????",
+		"description": "Decades back, a meteor crashed in the desert south of Solaire. Not much is known about this area as it has been found to be extremely radioactive. However, there have been reports of small green figures moving throughout the area. ",
+		"points": [
+			{ "x": 424, "y": 771 },
+			{ "x": 351, "y": 764 },
+			{ "x": 346, "y": 837 },
+			{ "x": 409, "y": 834 }
+		]
+	},
+	{
+		"name": "Nesadet",
+		"description": "In the harsh sun and unforgiving sands of the Scorched Sands sprinkles of civilization can be found. Nesadet is a small community of some of the hardiest mates in the lands whom seek out a living in this inhospitable wasteland.",
+		"points": [
+			{ "x": 367, "y": 686 },
+			{ "x": 452, "y": 690 },
+			{ "x": 440, "y": 754 },
+			{ "x": 369, "y": 752 }
+		]
+	},
+	{
+		"name": "Oro's Atoll",
+		"description": "The chain of islands found in between the mainlands are home to the largest variety of mates. The fish and cehpalopods regularly make trips to the shores for trade. Festivites and parties are also held here often due to the perfect climate and beautiful tropical scenery.",
+		"points": [
+			{ "x": 206, "y": 167 },
+			{ "x": 256, "y": 173 },
+			{ "x": 241, "y": 216 },
+			{ "x": 205, "y": 229 },
+			{ "x": 219, "y": 278 },
+			{ "x": 243, "y": 330 },
+			{ "x": 238, "y": 392 },
+			{ "x": 251, "y": 461 },
+			{ "x": 224, "y": 528 },
+			{ "x": 239, "y": 603 },
+			{ "x": 224, "y": 670 },
+			{ "x": 164, "y": 678 },
+			{ "x": 121, "y": 620 },
+			{ "x": 135, "y": 516 },
+			{ "x": 159, "y": 418 },
+			{ "x": 188, "y": 375 },
+			{ "x": 173, "y": 309 },
+			{ "x": 158, "y": 249 },
+			{ "x": 183, "y": 209 }
+		]
+	},
+	{
+		"name": "Limbo",
+		"description": "Limbo is the gateway between the lands beloning to Solaire and the harsh forces of nature seen in the Scorching Sands. This place acts both as an oasis for weary travelers who traveled the sands; and for brave adventurers seeking fame or fourtune.",
+		"points": [
+			{ "x": 362, "y": 662 },
+			{ "x": 429, "y": 640 },
+			{ "x": 410, "y": 589 },
+			{ "x": 356, "y": 603 }
+		]
+	},
+	{
+		"name": "Clear Skies Farm",
+		"description": "Agriculture is paramount to the success and longevity of many Bitmates' livlihoods. Most species eat predominatley plants and after the population expolosion those produced naturally by their surrondings would not suffice. Thus, Clear Skies Farm came about to meet the growing demand.",
+		"points": [
+			{ "x": 268, "y": 539 },
+			{ "x": 349, "y": 568 },
+			{ "x": 338, "y": 628 },
+			{ "x": 264, "y": 625 }
+		]
+	},
+	{
+		"name": "Solaire",
+		"description": "The kingdom of Solaire was founded shortly after Primus by some of the more forward thinking Mates following the death of El Oro. Progress and innovation are valued here above all else. It gets its name due both its incredibly long days, and because its residents see themselves as the light which all other mates should follow.",
+		"points": [
+			{ "x": 260, "y": 390 },
+			{ "x": 316, "y": 388 },
+			{ "x": 353, "y": 427 },
+			{ "x": 353, "y": 467 },
+			{ "x": 381, "y": 493 },
+			{ "x": 376, "y": 551 },
+			{ "x": 349, "y": 568 },
+			{ "x": 268, "y": 539 }
+		]
+	},
+	{
+		"name": "The Golden Grave",
+		"description": "Although it has been many years since the passing of El Oro, plenty of rumors have circulated as to where his final resting place lies. Many have come to the conclusion that he perished and was laid to rest here. Unfourtunatly, due to the lack of a body, this has yet to be verified.",
+		"points": [
+			{ "x": 243, "y": 330 },
+			{ "x": 291, "y": 321 },
+			{ "x": 303, "y": 363 },
+			{ "x": 275, "y": 378 },
+			{ "x": 245, "y": 363 }
+		]
+	},
+	{
+		"name": "Braveheart Barraks",
+		"description": "With the growing anxiety towards the disturbances in the Interlopers Cavern the King of Soalire thought it prudent to reinforce the area that lies inbetween the Kingdom and the Cavern to defend the city from any malice that might find its way out of the caves.",
+		"points": [
+			{ "x": 353, "y": 467 },
+			{ "x": 353, "y": 427 },
+			{ "x": 384, "y": 411 },
+			{ "x": 401, "y": 443 },
+			{ "x": 382, "y": 472 }
+		]
+	},
+	{
+		"name": "Brightwood",
+		"description": "If you make your way throught Interlopers Cavern you'll find yourself in the warm embrace of Brightwood. It features many homely facilities that even the most hardened of travelers have come to appreciate. Some come to love this little village so much that they choose to stay.",
+		"points": [
+			{ "x": 401, "y": 443 },
+			{ "x": 382, "y": 472 },
+			{ "x": 410, "y": 503 },
+			{ "x": 448, "y": 485 },
+			{ "x": 435, "y": 448 }
+		]
+	},
+	{
+		"name": "Interlopers Cavern",
+		"description": "This Subterranean marvel is truly something to behold. Many of the species of flora found here are bioluminescent and create a vast array of colors along its seemingly endless tunnels. Despite its beuaty there have been stories that something darker, something sinister, has made an appereance in these once peacuful caves.",
+		"points": [
+			{ "x": 500, "y": 429 },
+			{ "x": 435, "y": 448 },
+			{ "x": 401, "y": 443 },
+			{ "x": 384, "y": 411 },
+			{ "x": 373, "y": 336 },
+			{ "x": 446, "y": 327 },
+			{ "x": 500, "y": 327 }
+		]
+	},
+	{
+		"name": "Castaway Cove",
+		"description": "Many unfourtunate souls are swept up by the unforgiving currents and storms of the Bitmates territory. Those who survive these encounters often find themselves washed up here with not much around them besides and ancient looking temple.",
+		"points": [
+			{ "x": 446, "y": 327 },
+			{ "x": 383, "y": 253 },
+			{ "x": 318, "y": 262 },
+			{ "x": 306, "y": 302 },
+			{ "x": 322, "y": 363 },
+			{ "x": 368, "y": 356 },
+			{ "x": 373, "y": 336 }
+		]
+	}
+]
